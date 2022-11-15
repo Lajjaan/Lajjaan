@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Lajjaan
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java & Spigot API
+- 🌱 I’m currently learning Python, Java and Spigot API
 - 📫 linus.backberg@gmail.com
 - Swede
