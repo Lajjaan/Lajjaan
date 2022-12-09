@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lajjaan
-- 🌱 I’m currently learning Python, Java and Spigot API
+- 👋 Tjääna, mitt namn är @Lajjaan
+- 🌱 Just nu jobbar jag med Python, Java and Spigot API
 - 📫 linus.backberg@gmail.com
-- Swede
+- Sverige
