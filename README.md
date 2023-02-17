@@ -1,4 +1,4 @@
 - 👋 Tjääna, mitt namn är @Lajjaan
-- 🌱 Just nu jobbar jag med Python, Java and Spigot API
+- 🌱 Right now I am working with Python, Java (Spigot API), HTML, CSS and some Linux administration.
 - 📫 linus.backberg@gmail.com
 - Sverige
