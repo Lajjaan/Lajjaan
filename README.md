@@ -1,4 +1,4 @@
 - 👋 Tjääna!
-- 🌱 Right now I am working with Python, Java (Spigot API), HTML, CSS and some Linux administration (EngineX, Apache2, MySQL, general things).
+- 🌱 Right now I am working with Python, Java (Spigot API), HTML, CSS and some Linux administration (EngineX, Apache2, MySQL/MariaDB, general things).
 - 📫 linus.backberg@gmail.com
 - Sweden
