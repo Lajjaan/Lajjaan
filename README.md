@@ -1,5 +1,5 @@
 - 👋 Tjääna!
 - 🌱 Right now I am working with Java, C#, HTML, CSS, and Linux administration (EngineX, Apache2, MySQL/MariaDB, and some super cool general things).
-- ⭐ My plan for 2023/early 2024 is to learn C# well enough to create some nice projects. Maybe Unity, we'll see?
+- ⭐ Also founder of a web company located in Sweden, which I own with my very close friend Samuel. Check it out: https://jetway.se/
 - 📫 linus.backberg@gmail.com
 - Sweden
